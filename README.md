@@ -1,2 +1,2 @@
-# The-Medell-n-Cartel
+# The-Medellin-Cartel
 STNT-2
