@@ -7,6 +7,8 @@ mkdir Akshar Harshil Porash
 mv 11940090.txt Akshar
 mv 11940470.txt Harshil
 mv 11940840.txt Porash
-git add .
+git add Akshar
+git add Harshil
+git add Porash
 git commit -m "All at once"
 git graph
